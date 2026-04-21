@@ -40,13 +40,13 @@
 
 ## 🔥 Contribution Activity
 
-![Streak](https://streak-stats.demolab.com/?user=VinieGM\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=LuicesIV\&theme=tokyonight)
 
 ---
 
 ## 🐍 Pacman Contribution Animation
 
-![pacman](https://raw.githubusercontent.com/VinieGM/VinieGM/output/pacman.svg)
+![pacman](https://raw.githubusercontent.com/LuicesIV/LuicesIV/output/pacman.svg)
 
 ---
 
@@ -76,14 +76,14 @@
 
 ## 📫 Connect with Me
 
-* 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-* 🌐 Portfolio: coming soon
+* 📧 Email: hieutranphamminh@gmail.com
+* 🌐 Portfolio: Sure Bro
 
 ---
 
 ## ⚡ Fun Fact
 
-> I debug faster with coffee ☕
+> I debug faster with my nigga ☕
 
 ---
 
