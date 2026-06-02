@@ -1,4 +1,17 @@
-name: GitHub Snake Game
+name: Deploy Website
+
+permissions:
+  contents: write
+
+jobs:
+  generate-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4 # Đã nâng cấp lên v4
+
+      # ... Các bước build/generate của bạn ...
+      name: GitHub Snake Game
 
 
 
@@ -95,3 +108,9 @@ jobs:
           # Optionally, you can set a custom commit message
 
           commit_message: "Update snake animation [skip ci]"
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4 # Đã nâng cấp lên v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public # Hoặc thư mục output của bạn
