@@ -5,7 +5,7 @@
 🎯 Focused on clean architecture & performance
 
 
-<img src="[https://media.tenor.com/BR-ecatATxUAAAAM/pixel-art.gif](https://media.tenor.com/vIA8eEsL5toAAAAi/icedabhii-shadow-army.gif)" width="40000" alt="Mô tả ảnh động">
+<img src="https://media.tenor.com/vIA8eEsL5toAAAAi/icedabhii-shadow-army.gif" width="40000" alt="Mô tả ảnh động">
 ---
 
 ## 🧠 Tech Stack
